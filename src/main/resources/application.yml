@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: EmployeeManagementPortalApplication
+
+server:
+  servlet:
+    context-path: /employeemanagement
+  port: 9000
+
+logging:
+  level:
+    web: info
